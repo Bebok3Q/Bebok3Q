@@ -5,6 +5,31 @@
 - 💬 Ask me about Python, SQL, R
 - ⚡ I'm Pretty Good at Python Actually
 
+```yaml
+name: Kacper Talaga
+located_in: Kraków, Poland
+current_job: Full Stack Student
+education:
+  [
+    in_progress: GeoSpatial Computer Science,
+    in_progress: Technical Computer Science
+  ]
+university: AGH
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Backend",
+  ]
+ 
+currently_learning: ["Docker, C++"]
+hobbies: ["Gaming", "Cinema", "Gym", "Coding"]
+```
+
+
 Languages and Tools:
 <p align="left">
   <a href="https://www.python.org/">
