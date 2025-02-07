@@ -1,8 +1,9 @@
-Hi 👋🏻, I'm Kacper Talaga
-💼 I'm a AGH Student, Learner!
-💻 I’m currently learning about Backend/ ML
+<h1 align="center">Hi 👋🏻, I'm Kacper Talaga</h1>
+<h3>💼 I'm a AGH Student, Learner!</h3>
 
-💬 Ask me about Python, SQL, R
+- 💻 I’m currently learning about Backend/ ML
+- 💬 Ask me about Python, SQL, R
+- ⚡ I'm Pretty Good at Python Actually
 
 Languages and Tools:
 <p align="left">
