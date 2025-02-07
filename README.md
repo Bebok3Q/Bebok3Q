@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋🏻, I'm Kacper Talaga
+💼 I'm a AGH Student, Learner!
+💻 I’m currently learning about Backend/ ML
 
-<!--
-**Bebok3Q/Bebok3Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Ask me about Python, SQL, R
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+<p align="left">
+  <a href="https://www.python.org/">
+    <code><img src="https://www.python.org/static/img/python-logo.png" width="40" height="40"</code>
+  </a>
+  <a href="https://www.r-project.org/">
+    <code><img src="https://www.r-project.org/Rlogo.png" width="40" height="40"</code>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/SQL">
+    <code><img src="https://shorturl.at/MU31x" width="40" height="40"</code>
+  </a>
+</p>
